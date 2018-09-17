@@ -98,28 +98,43 @@
          </tr>
       </table>
 
-<form>
-         <label>nama</label>
-         <input type="text">
+<form> 
+      <p>
+               <label for="nama">nama</label>
+               <input type="text" name="nama">
+      </p>
    
-         <label>alamat</label>
-         <textarea></textarea>
+      <p>
+               <label for="address">alamat</label>
+               <textarea name="address"></textarea>
+      </p>
+         <label for="country">negara</label>
    
-         <label>negara</label>
+   
    <select>
+       <P>
                <option>estonia</option>
                <option>finlandia</option>
                <option>bulgaria</option>
+      </P>  
    </select>
-         <br>
-         <label>gender</label>
-         <input type="radio"><label>male</label>
-         <input type="radio"><label>female</label>
-   
-         <label>pekerjaan</label>
-         <input type="checkbox"><label>school</label>
-         <input type="checkbox"><label>work</label>
          
+      <P>
+         <label>gender</label>
+         <input type="radio">name="male">
+         <label for="male">male</label>
+         <input type="radio"> name="female">
+         <input for="female">female</label>
+   </P>
+         
+   
+   <P>
+         <label>pekerjaan</label>
+         <input type="checkbox"name="school">
+         <input for="school">school</label>
+         <input type="checkbox"name="work">
+   </P>  
+   
          
    <button>save</button>
       
