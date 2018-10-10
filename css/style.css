@@ -3,12 +3,17 @@ body{
 }
   
 p{
-    color:hsl(28, 100%, 86%);
+    color:hsl(30, 83%, 53%);
 }
 
-a:hover{
+a{
     color: hsl(0, 0%, 97%);
-    
+}
+
+
+a:hover{
+        color: hsl(0, 0%, 97%);
+}
  
  h1{
      color:rgb(255, 192, 203);
