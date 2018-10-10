@@ -1,8 +1,10 @@
 body{
     background-color:#0fffd7;
 }
-
+  
 a{
     color: hsl(0, 0%, 97%);
+ 
+p{
+    color:hsl(28, 100%, 86%);
 }
-
