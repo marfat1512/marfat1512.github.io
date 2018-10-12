@@ -1,5 +1,9 @@
-<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
- @IMPORT<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico" rel="stylesheet">
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico');
+font-family: 'Pacifico', cursive;
+
+
+
+
 
 body {
 	color: #fff;
