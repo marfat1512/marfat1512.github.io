@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Exo|Indie+Flower|Pacifico');
 
 p{
-	font-family: 'Pacifico', cursive;
+	font-family: 'Indie Flower', cursive;
 }
 
 body {
@@ -12,8 +12,6 @@ body {
 
 a{
     color: black;
-    font-family: 'Fredericka the Great', cursive;
-    font-size: 120%;
 }	
 	
 
