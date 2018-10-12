@@ -8,26 +8,26 @@ body {
 	color: #fff;
 	background: url('https://www.rughdesign.com/wp-content/uploads/2016/02/6624-Peach-Blossom.jpeg');
 	background-size: cover;     
-	
 }
 
 a{
     color: black;
     font-family: 'Fredericka the Great', cursive;
-    font-size: 10px;
+    font-size: 120%;
 }	
 	
-}
+
 
 p{
     color:black;
 }
- h1{
+ 
+h1{
      color:rgba(0, 0, 0, 0.658);
 
 }
 
 h2 {
-      font-size: 4px;
+      font-size: 4%;
 }
 
