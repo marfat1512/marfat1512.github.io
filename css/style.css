@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css?font-family: 'Pacifico', cursive;)
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico');
 
-
-
-
-font-family: 'Pacifico', cursive;
+p{
+	font-family: 'Pacifico', cursive;
+}
 
 
 
