@@ -26,14 +26,14 @@ h2 {
 }
 
 div {
-	background-color: #ff0000 ;
-	background-color: #000080 ;
+	background-color: blue ;
+	background-color: pink ;
 
 }
 
 .kotak 1 {
 	
-	background-color: #ff0000;
+	background-color: red;
 	width: 300px;
 	height: 200px;
 
@@ -41,7 +41,7 @@ div {
 
 .kotak 2 {
 	
-	background-color:  #000080;
+	background-color: yellow;
 	width: 300px;
 	height: 200px;
 
@@ -49,7 +49,7 @@ div {
 
 .kotak 3 {
 	
-	background-color:  #ffc0cb;
+	background-color:  aqua;
 	width: 300px;
 	height: 200px;
 
