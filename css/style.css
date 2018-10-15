@@ -31,24 +31,24 @@ div {
 
 }
 
-{
-	.kotak 1
+.kotak 1 {
+	
 	background-color: #ff0000;
 	width: 300;
 	height: 200;
 
 }
 
-{
-	.kotak 2
+.kotak 2 {
+	
 	background-color:  #000080;
 	width: 300;
 	height: 200;
 
 }
 
-{
-	.kotak 3
+.kotak 3 {
+	
 	background-color:  #ffc0cb;
 	width: 300;
 	height: 200;
