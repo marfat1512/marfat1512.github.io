@@ -27,39 +27,17 @@ h2 {
 
 div {
 	background-color: blue ;
-	background-color: pink ;
-
-}
-
-.kotak 1 {
 	
-	background-color: red;
-	width: 400px;
-	height: 500px;
 
 }
 
-.kotak 2 {
-	
-	background-color: yellow;
-	width: 100px;
-	height: 300px;
 
-}
-
-.kotak 3 {
-	
-	background-color:  aqua;
-	width: 200px;
-	height: 300px;
-
-}
 
 .main {
     bacjground-color: rgb(233, 150, 122);
     widhth: 70%
     float:  left;
-    height: 100px;
+    height: 30px;
 }
 
 .sidebar {
