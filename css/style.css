@@ -13,16 +13,16 @@ a{
 
 
 p{
-    color: rgb(26, 128, 127);
+    color: rgb(254, 228, 225);
 }
  
 h1{
-     color: rgba(0, 0, 0, 0.658);
+     color:rgb(254, 228, 225);
 
 }
 
 h2 {
-      font-size:30px;
+      font-size:10px;
 }
 
 div {
@@ -34,14 +34,14 @@ div {
 
 
 .main {
-    bacjground-color: rgb(233, 150, 122);
+    bacjground-color: rgb(254, 228, 225);
     widhth: 70%
     float:  left;
     height: 30px;
 }
 
 .sidebar {
-    bacjground-color: rgb(255, 227, 200);
+    bacjground-color: rgb(254, 228, 225);
     widhth: 70%
     float:  right;
     height: 100px;
