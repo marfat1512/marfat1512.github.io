@@ -55,7 +55,19 @@ div {
 
 }
 
-<div style="background: aqua">
-ISI DARI DIV HTML TAG
-</div>
+.main {
+    bacjground-color: rgb(233, 150, 122);
+    widhth: 70%
+    float:  left;
+    height: 100px;
+}
+
+.sidebar {
+    bacjground-color: rgb(255, 227, 200);
+    widhth: 70%
+    float:  right;
+    height: 100px;
+}
+
+
 
