@@ -1,7 +1,10 @@
-body {
-  Background-color:rgb(115, 255, 216);
-}
-
+body{
+	font:normal 12px Verdana, Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+	background-image:url('../images/theme/body.png');
+	background-position:top left;
+	background-repeat:repeat-x;
 p {
   bakground-color:rgb(0 ,0 ,0);
   font-size: 25px;	
