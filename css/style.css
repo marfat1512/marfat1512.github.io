@@ -2,7 +2,6 @@
 
 body {
 	color: white;
-	background-size: cover;     
 }
 
 .pengertian {
@@ -12,10 +11,17 @@ body {
 }
 
 
+h1 {
+  color: black;
+  font-size: 50px	
+}
+
 h2 {
   color: black;
   font-size: 50px	
 }
+
+
 
 
 .jenis literasi {
@@ -34,7 +40,7 @@ h2 {
 
 
 
-li {
+ul {
   color: black;
 }
 
