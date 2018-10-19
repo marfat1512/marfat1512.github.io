@@ -1,9 +1,9 @@
 body {
-  Background-color: aqua;
+  Background-color:rgb(115, 255, 216);
 }
 
 p {
-  bakground-color: black;
+  bakground-color:rgb(0 ,0 ,0);
   font-size: 50px	
 }
 
@@ -17,6 +17,9 @@ p {
   font-size: 50px	
 }
 
+.literasi{
+ bakground-color:rgb(40, 178, 170);
+}
 
 .jenis literasi {
  background-color: orange;
