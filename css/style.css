@@ -19,7 +19,19 @@ anak1 {
 
 
 
-
+.div1 {
+    background-color: rgb(188, 54,94);
+    width: 30%;
+    height: 500px;
+    text-align: center;
+}
+.tas {
+    background-color: rgb(188, 54,94);
+    width: 40%;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
 
 
 
