@@ -5,19 +5,9 @@
 .pengertian {
     hight: 400px;
     widht: 100%;
+    float: right;
     background-color: rgb(66,172,299);
 }
-
-
-anak1 {
-    background-color: rgb(188, 54,94);
-    width: 30%;
-    height: 500px;
-    text-align: center;
-      
-}
-
-
 
 .div1 {
     background-color: rgb(188, 54,94);
@@ -30,6 +20,14 @@ anak1 {
     width: 40%;
     height: 500px;
     float: left;
+    text-align: center;
+}
+
+.jenis {
+    background-color: rgb(249, 19, 147);
+    width: 500%;
+    height: 500px;
+    float: right;
     text-align: center;
 }
 
