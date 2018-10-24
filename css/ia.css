@@ -1,0 +1,28 @@
+.pengertian {
+    hight: 400px;
+    widht: 100%;
+    float: left;
+    background-color: rgb(66,172,299);
+}
+
+.div1 {
+    background-color: rgb(188, 54,94);
+    width: 30%;
+    height: 500px;
+    text-align: center;
+}
+.tas {
+    background-color: rgb(188, 54,94);
+    width: 40%;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
+
+.jenis {
+    background-color: rgb(249, 19, 147);
+    width: 500%;
+    height: 500px;
+    float:  left;
+    text-align: center;
+}
