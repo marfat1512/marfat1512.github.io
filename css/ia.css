@@ -18,6 +18,13 @@
     background-color: rgb(66,172,299);
     text-align: center;
 }
+.to {
+    background-color: rgb(188, 54,94);
+    width: 30%;
+    height: 200px;
+    float: left;
+    text-align: center;
+}
 .jenis {
     background-color: rgb(249, 19, 147);
     width: 100%;
