@@ -5,7 +5,7 @@
 .pengertian {
     hight: 400px;
     widht: 100%;
-    float: right;
+    float: left;
     background-color: rgb(66,172,299);
 }
 
@@ -27,7 +27,7 @@
     background-color: rgb(249, 19, 147);
     width: 500%;
     height: 500px;
-    float: right;
+    float:  left;
     text-align: center;
 }
 
