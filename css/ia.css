@@ -46,6 +46,15 @@
 }
 
 
+.literasi {
+    background-color: rgb(62, 250, 153);
+    width: 30%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    padding: 20px;
+}
+
 .ia {
     background-color: rgb(62, 250, 153);
     width: 30%;
@@ -54,15 +63,18 @@
     text-align: center;
     padding: 20px;
 }
+
 .baca {
     height: 200px;
     width: 30%;
+    height: 200px;
     float: left;
     background-color: rgb(72, 209, 204);
     text-align: center;
     padding: 20px;
 
 }
+
 .tulis {
     background-color:rgb(62, 250, 153);
     width: 30%;
