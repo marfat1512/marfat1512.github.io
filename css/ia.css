@@ -14,10 +14,10 @@
 .io {
     background-color: rgb(62, 250, 153);
     width: 30%;
-    height: 500px;
+    height: 1000px;
     float: left;
     text-align: center;
-    padding: 20px;
+    padding: 50px;
 }
 .pengertian {
     height: 200px;
