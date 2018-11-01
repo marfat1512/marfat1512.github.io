@@ -11,6 +11,15 @@
     height: 50px;
     padding: 20px;
  
+.ia {
+    background-color: rgb(62, 250, 153);
+    width: 30%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    padding: 20px;
+}    
+    
 }
 .gallery{
     background-color: rgb(135,206,250);
@@ -26,11 +35,4 @@
     padding: 20px;
  
 }
-.ia {
-    background-color: rgb(62, 250, 153);
-    width: 30%;
-    height: 200px;
-    float: left;
-    text-align: center;
-    padding: 20px;
-}
+
