@@ -26,3 +26,11 @@
     padding: 20px;
  
 }
+.ia {
+    background-color: rgb(62, 250, 153);
+    width: 30%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    padding: 20px;
+}
