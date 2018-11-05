@@ -31,15 +31,37 @@
      font-size: 25px; 
  
 }
-.fiksi {
-    background-color: rgb(135,206,250);
+* {
+    margin: 0;
+    padding: 0;
     width: 100%;
-    text align: center;
-    font-size:50px;
+}
+
+.header {
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    width: 100%;
+}
+
+.logo {
+    width: 30%;
+    height: 100px;
+    float: left;
+{
+
+.menu {
+    width: 70%;
+    height: 100px;
+    float: left;
+
+}
+
+.menu a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
     
 }
-    
-    
     
     
     
